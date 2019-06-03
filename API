@@ -1,0 +1,3 @@
+006c88f90e6071a7d594e894e8684109
+
+`http://maps.openweathermap.org/maps/2.0/weather/TA2/{z}/{x}/{y}?date=1527811200&opacity=0.9&fill_bound=true&appid={api_key}`
